@@ -514,4 +514,4 @@ for point in points:
     print(index, point)
     index += 1
 draw_3d_points(points, convex_hull_3d)
-# draw_3d_convex_hull(points, list_of_planes)
+draw_3d_convex_hull(points, list_of_planes)
